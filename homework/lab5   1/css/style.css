@@ -1,0 +1,30 @@
+body{
+	font-size:12px;
+	font-family:Arial;
+	color:gray;
+	line-height:2em;
+}
+a{
+	color:#727272;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+	}
+.wenzi{
+	font-size:14px;
+	color:#b9f605;
+	font-weight:bolder;
+}
+.color{
+	color:white;
+}
+.list a:hover{
+	color:#b9f605;
+	text-decoration:none;
+	font-size:1em;
+}
+
+.a{
+	color:#fdb306;
+}
