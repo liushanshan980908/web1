@@ -1,0 +1,42 @@
+body{
+	font-size:12px;
+	font-family:Arial;
+	color:gray;
+	line-height:2em;
+}
+a{
+	color:#727272;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+	}
+.wenzi{
+	font-size:14px;
+	color:#b9f605;
+	font-weight:bolder;
+}
+.color{
+	color:white;
+}
+.list a:hover{
+	color:#b9f605;
+	text-decoration:none;
+	font-size:1em;
+}
+
+.a{
+	color:#fdb306;
+}
+ul{
+	list-style-type:none;
+}
+tr.image{
+	background-image:url(../image/bg.gif);
+}
+td.image1{
+	background-image:url(../image/banner.jpg);
+}
+tr.image2{
+	background-image:url(../image/foot_bg.gif);
+}
