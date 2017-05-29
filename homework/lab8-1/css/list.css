@@ -1,0 +1,237 @@
+/*页头部分*/
+#wrap{
+	align:center;
+	font-size: 12px;
+	color:#522a06;
+	padding:0px;
+	font-family: '宋体';
+	background-image: url(../images/bodybg.gif);
+}
+.border{
+	border:0px;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+a:link{
+	color:#522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+body{
+	background-image: url(../images/bodybg.gif);
+	width: 800px;
+}
+#header{
+	height:205px;
+	background-image: url(../images/bg.gif);
+	background-position:center top;
+	width: 1330px;
+}
+#banner{
+	width:1000px;
+	height:164px;
+	align:center;
+}
+.logo{
+	position:absolute;
+	left:25px;
+	top:38px;
+}
+#nav{
+	height:40px;
+	background-image: url(../images/nav.jpg);
+}
+.nav_body{
+	width:1000px;
+	align:center;
+}
+.nav_content{
+	width:800px;
+	float:left;
+	padding-left:90px;
+}
+.nav_content{
+	font-weight: bolder;
+	line-height: 40px;
+	color:#fff;
+}
+.nav_content a:link{
+	color:#fff;
+}
+
+.nav_content a:hover{
+	color:#f9f603;
+	text-decoration: none;
+}
+.nav_content a:visited{
+	color:#fff;
+	text-decoration: none;
+}
+#a1{
+	color:#f9f603;
+}
+.nav_search{
+	float:left;
+	padding-left:90px;
+	line-height: 40px;
+}
+.text{
+	width:140px;
+	height:19px;
+	background-color: #f8f5ee;
+}
+.buttom{
+	width:44px;
+	height:21px;
+	background-color: #000;
+	color:#fff;
+	border:1px solid #f8f5ee;
+	position: relative;
+	right:50px;
+	top:2px;
+}
+/*页面内容部分*/
+#content{
+	position: relative;
+	left:200px;
+	top:30px;
+}
+#left{
+	float:left;
+	width: 200px;
+	position: relative;
+	right:20px;
+}
+.span{
+	position: relative;
+	bottom: 20px;
+}
+.lefttop{
+	background-image: url(../images/bg.png);
+	height:200px;
+	width: 200px;
+}
+.lefttopphoto2{
+	position: relative;
+	right: 30px;
+	bottom:50px;
+}
+.lefttopul{
+	line-height: 30px;
+	position: relative;
+	left:30px;
+}
+.lefttopli1{
+	position: relative;
+	bottom: 20px;
+}
+.span9{
+	color:red;
+	font-weight: bold;
+}
+.lefttopli{
+	position: relative;
+	bottom: 60px;
+}
+.span8{
+	color:gry;
+	font-weight: bold;
+}
+.left_content{
+	background-image: url(../images/bg.png);
+	width: 200px;
+	height:160px;
+	position: relative;
+	top:30px;
+}
+.leftcontentli{
+	line-height: 30px;
+	position: relative;
+	left:20px;
+	bottom: 10px;
+}
+.leftbottom{
+	position: relative;
+	top:60px;
+}
+#right{
+	float:left;
+	width:500px; 
+	position: relative;
+	left:20px;
+}
+.span1{
+	position: relative;
+	left:60px;
+	bottom: 40px;
+	font-weight: bold;
+	font-size: 25px;
+}
+.rightcontentul{
+	line-height: 30px;
+	position: relative;
+	bottom: 30px;
+	right: 25px;
+}
+.rightcontentli{
+	list-style-image: url(../images/pot.gif);
+}
+.span2{
+	display: inline;
+	float:right;
+	position: relative;
+	left:280px;
+}
+.right_bottom{
+	position: relative;
+	left:200px;
+}
+.span3{
+	border: 1px solid black;
+	padding: 6px;
+	margin:2px;
+	display: inline;
+}
+.span4{
+	display: inline;
+}
+/*页脚部分*/
+#footer{
+	height: 105px;
+	clear:left;
+	width: 800px;
+	position: relative;
+	bottom: 120px;
+	position: relative;
+	bottom:30px;
+}
+.ph{
+	width: 1330px;
+	position: relative;
+	top:120px;
+	left: 5px;
+}
+.footul{
+	position: relative;
+	left:400px;
+}
+.footli{
+	display: inline;
+}
+.footphoto{
+	position: relative;
+	left:425px;
+}
+.footp1{
+	position: relative;
+	left:500px;
+}
+.footp2{
+	position: relative;
+	left:500px;
+}
