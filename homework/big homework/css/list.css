@@ -1,0 +1,154 @@
+#wrap{
+	font-size:12px;
+	color:#522a06;
+	padding:0px;
+	margin:0px;
+	font-family:'宋体';
+	width: 1300px；
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+a:link{
+	color:#522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited{
+	color:#522a06;
+}
+/*头部*/
+#header{
+	height:202px;
+	background-image: url(../images/bg.jpg);
+	background-position:center top;
+}
+#banner{
+	height:190px;
+}
+.logo{
+	position: relative;
+	top:80px;
+	left:1100px;
+}
+#nav{
+	height:40px;
+	background-image: url(../images/nav.jpg);
+}
+.nav_content ul li{
+	list-style-type: none;
+	line-height: 25px;
+	font-size: 15px;
+	width:100px;
+	float:left;
+}
+.nav_content a{
+	font-weight: bold;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	text-align: center;
+}
+.nav_content a:hover{
+	background-color:#00ff00;
+}
+.nav_search{
+	float:right;
+	position: relative;
+	top:5px;
+	right: 100px;
+}
+/*主要部分*/
+#content{
+	width:1330px;
+	height:700px;
+	clear:left;
+	float:left;
+	position: relative;
+	top:10px;
+	background-image: url(../images/bg4.jpg);
+}
+.top1{
+	position: relative;
+	left:150px;
+	float:left;
+	width:1000px;
+	height:30px;
+	line-height: 10px;
+}
+#left{
+	margin-left:200px;
+	background-color: white;
+	width:200px;
+	float:left;
+	margin-top:40px;
+	line-height: 30px;
+	font-size: 16px
+}
+#right{
+	width:700px;
+	height:500px;
+	background-color: white;
+	float:left;
+	margin:40px;
+}
+.right1{
+	font-size:30px;
+	color:blue;
+	position: relative;
+	left:20px;
+	margin-bottom: 20px;
+}
+.right2{
+	margin-bottom:40px;
+}
+.ul1{
+	line-height:30px;
+	font-size:14px;
+}
+.span1{
+	float:right;
+	margin-right:20px;
+}
+.span2{
+	display: inline;
+	border:1px black solid;
+	position: relative;
+	left:150px;
+	margin-right: 20px;
+	padding:5px;
+}
+.span3{
+	display: inline;
+	position: relative;
+	left:150px;
+	margin-right: 20px;
+	padding:5px;
+}
+/*尾部*/
+#footer{
+	height:100px;
+	clear:left;
+	background-image: url(../images/nav.jpg);
+	position: relative;
+	top:20px;
+}
+.footli{
+	display: inline;
+	position: relative;
+	left:350px;
+}
+.footphoto{
+	position: relative;
+	left:350px;
+}
+.footp1{
+	text-align: center;
+}
+.footp2{
+	text-align: center;
+}
